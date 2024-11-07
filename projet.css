@@ -1,0 +1,59 @@
+.t1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 40%;
+}
+button.border-primary:hover{
+     border-radius: 50px 20px;
+}
+li.op{
+    font-size: 19px;
+}
+li.op:hover{
+    background-color: lightgrey;
+    border-radius: 20px 2px;
+}
+h5.MENU{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+a.nav-link{
+    color: white;
+}
+a.nav-link:hover{
+    color: black;
+}
+nav li.navi{
+  margin-right: 2%; 
+  border-radius: 24px;
+  background-color: black;
+}
+nav li.navi:hover{
+    background-color: white;
+    color: black;
+    border-radius: 50px 20px;
+}
+.ban{
+    width: 90%;
+    border-radius: 9%;
+}
+li {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 20%;
+}
+li .acceuil{
+    background-color: white;
+    color: black;
+    height: 3%;
+    border-radius: 30px;
+}
+select{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+section .login{
+    width: 25%;
+}
+body{
+  font-family: "ubuntu";
+  background-color: aqua;
+}
